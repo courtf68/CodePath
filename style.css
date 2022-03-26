@@ -80,4 +80,8 @@ video {
 }
 #button6:active, #button6.lit {
     background:mediumturquoise;
+} 
+h6 { 
+float: right; 
+
 }
