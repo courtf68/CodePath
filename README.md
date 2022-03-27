@@ -31,11 +31,14 @@ The following **optional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
-
+1. https://cdn.glitch.global/d6004b2a-bd1d-41ca-a29a-697b469c78c5/ezgif.com-gif-maker%20(1).gif?v=1648339506682 //first 15 seconds of gameplay
+2. https://cdn.glitch.global/d6004b2a-bd1d-41ca-a29a-697b469c78c5/ezgif.com-gif-maker%20(2).gif?v=1648339613574 //next 15 seconds
+3. https://cdn.glitch.global/d6004b2a-bd1d-41ca-a29a-697b469c78c5/ezgif.com-gif-maker%20(3).gif?v=1648339666222 //next 15 seconds
+4. https://cdn.glitch.global/d6004b2a-bd1d-41ca-a29a-697b469c78c5/ezgif.com-gif-maker%20(4).gif?v=1648339704579 //next 15 seconds
+5. https://cdn.glitch.global/d6004b2a-bd1d-41ca-a29a-697b469c78c5/ezgif.com-gif-maker%20(5).gif?v=1648339786197 //next 15 seconds
+6. https://cdn.glitch.global/d6004b2a-bd1d-41ca-a29a-697b469c78c5/ezgif.com-gif-maker%20(6).gif?v=1648339888439 //next 15 seconds
+7. https://cdn.glitch.global/d6004b2a-bd1d-41ca-a29a-697b469c78c5/ezgif.com-gif-maker%20(7).gif?v=1648340050950 //next 15 featuring winning and a losing case
+8.https://cdn.glitch.global/d6004b2a-bd1d-41ca-a29a-697b469c78c5/ezgif.com-gif-maker%20(8).gif?v=1648340143064 //showing alternate losing case
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 [YOUR ANSWER HERE]
