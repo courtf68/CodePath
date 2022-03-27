@@ -38,16 +38,25 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 5. https://cdn.glitch.global/d6004b2a-bd1d-41ca-a29a-697b469c78c5/ezgif.com-gif-maker%20(5).gif?v=1648339786197 //next 15 seconds
 6. https://cdn.glitch.global/d6004b2a-bd1d-41ca-a29a-697b469c78c5/ezgif.com-gif-maker%20(6).gif?v=1648339888439 //next 15 seconds
 7. https://cdn.glitch.global/d6004b2a-bd1d-41ca-a29a-697b469c78c5/ezgif.com-gif-maker%20(7).gif?v=1648340050950 //next 15 featuring winning and a losing case
-8.https://cdn.glitch.global/d6004b2a-bd1d-41ca-a29a-697b469c78c5/ezgif.com-gif-maker%20(8).gif?v=1648340143064 //showing alternate losing case
+8. https://cdn.glitch.global/d6004b2a-bd1d-41ca-a29a-697b469c78c5/ezgif.com-gif-maker%20(8).gif?v=1648340143064 //showing alternate losing case
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+I did not use any outside resources to help complete my submission.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+    One challenge I encountered in creating this submission was working with Glitch. 
+At first I was adjusting well, as I have worked with similiar software like Replit, but then when I tried to run the program it wouldn't work. 
+To troubleshoot this I changed the names of my button ids as I had made them different than what was said in the instructions. 
+I know that names of ids are not an issue unless they dont match up in every file and usage but just in case I changed them to their given names.
+This change made my preview stop loading and I couldn't do anything. I changed the names back to what I had oringally but the page still wouldn't appear. 
+I asked for help in the Slack and I was told that the code I had worked so I just stepped away from the program for a while and when I came back the preview was working! I believe it was a glitch on Glitch.
+However, once I completed the code from there, I still had a problem. The pattern would play correctly but when I would copy it, I would lose the game occasionally for what it seemed like no reason.
+I tried to debug this by printing statements to the console and inspecting what was happening. Despite this, I still couldn't figure out the problem so I made a new file and re-did the project very carefully and got it to work!
+
+
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+Some questions about web development I have after completing my submission are... 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
