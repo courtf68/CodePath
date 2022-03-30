@@ -6,7 +6,7 @@ Submitted by: Courtney
 
 Time spent:  7 hours (with website being down)
 
-Link to project: https://glitch.com/edit/#!/loud-palm-plane
+Link to project: https://glitch.com/edit/#!/loud-palm-plane (https://loud-palm-plane.glitch.me)
 
 ## Required Functionality
 
