@@ -56,21 +56,23 @@ I tried to debug this by printing statements to the console and inspecting what 
 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-Some questions about web development I have after completing my submission are... 
+Some questions about web development I have after completing my submission are why javascript and css styling can be used both in html and in their own seperate files. I believe it is because of personal choice and convenience but I am 
+curious about if there was ever just one way to do it. Another question I have is why was javascript created for web design. I wonder if java was ever used for web design or could be used like that.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+If I had a few more hours to work on this project I would make the pattern switch every time. I was trying to implement that but I got stuck with making sure the length was still the same and kept losing for some reason. I would also change the shape of the buttons to be circular and decorate them more to include more colors within each button.
+Another feature I would add are levels where the buttons could switch colors or places so that each time difficulty increased and the pattern was shown quicker.
 
 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording] https://www.loom.com/share/63e5bc753f364b079c28fa0bfa90971c 
 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Courtney Fenderson]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
